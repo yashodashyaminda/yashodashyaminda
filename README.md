@@ -11,10 +11,8 @@
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/yashodashyaminda" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="yashodashyaminda" height="50" width="50" /></a>
-<a href="overleaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yashodashyaminda" height="50" width="50" /></a>
-<a href="https://www.facebook.com/share/1BLD43avZ4/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashodashyaminda" height="50" width="50" /></a>
+<a href="https://www.facebook.com/share/12LdhxFh5j6/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashodashyaminda" height="50" width="50" /></a>
 <a href="https://www.instagram.com/yas_shyaminda?igsh=NzJ3cW80NWt4OWw3&utm_source=qr" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="yashodashyaminda" height="50" width="50" /></a>
 </p>
 
