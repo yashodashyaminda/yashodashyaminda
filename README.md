@@ -27,4 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashodashyaminda&show_icons=true&locale=en" alt="yashodashyaminda" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodashyaminda&" alt="yashodashyaminda" /></p>
+
 
