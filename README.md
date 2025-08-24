@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodashyaminda&label=Profile%20views&color=0e75b6&style=flat" alt="yashodashyaminda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashodashyaminda" alt="yashodashyaminda" /></a> </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashodashyaminda&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+
 
 - 🌱 I’m currently learning **Full-Stack Software Engineering**
 
