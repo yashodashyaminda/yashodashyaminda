@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashodashyaminda" alt="yashodashyaminda" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Full-Stack Software Engineering**
 
 - 📫 How to reach me **yashodashaminda249@gmail.com**
 ---
